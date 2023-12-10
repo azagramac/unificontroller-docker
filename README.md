@@ -1,12 +1,12 @@
 [![unifi](https://badgen.net/badge/UniFi/8.0.7-ls218?list=|&icon=https://docs.golift.io/svg/ubiquiti_color.svg&color=0099ee "UniFi Products Supported")](https://www.ui.com/download/unifi/)
 
 <p align="center">
-  <img src="https://github.com/AzagraMac/UnifiDocker/blob/main/unifi-banner.png"
+  <img src="https://github.com/AzagraMac/unificontroller-docker/assets/571796/566da753-04d8-42f2-9524-12ab6ca0c494"
        width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" 
+  <img src="https://github.com/AzagraMac/unificontroller-docker/assets/571796/dbf4a40a-905f-4240-a03d-524ed5a59482" 
        width="300"/>
 </p>
 
@@ -14,7 +14,7 @@
 - Service docker running
 
 ### Install 
-`git clone https://github.com/AzagraMac/UnifiDocker.git`
+`git clone https://github.com/AzagraMac/unificontroller-docker.git`
 
 ### Deploy
 ```
@@ -84,5 +84,5 @@ Access to URL `https://IP_HOST:8443`
 
 #### Configure it normally. 
 <p align="center">
-  <img src="https://github.com/AzagraMac/UnifiDocker/blob/main/cap01.png" />
+  <img src="https://github.com/AzagraMac/unificontroller-docker/assets/571796/97180a05-d606-4fe5-a878-981a5fa99a23" />
 </p>
